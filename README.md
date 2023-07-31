@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwillow2150&count_bg=%2333CF52&title_bg=%2315C8C8&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![willow2150's GitHub stats](https://github-readme-stats.vercel.app/api?username=willow2150&show_icons=true&bg_color=00000000)
+<!-- ![willow2150's GitHub stats](https://github-readme-stats.vercel.app/api?username=willow2150&show_icons=true&bg_color=00000000) -->
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=awm7)
 
 
