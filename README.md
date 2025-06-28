@@ -1,7 +1,5 @@
 # 👋 Thank you for visiting! 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwillow2150&count_bg=%2333CF52&title_bg=%2315C8C8&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ![willow2150's GitHub stats](https://github-readme-stats.vercel.app/api?username=willow2150&show_icons=true&bg_color=00000000)
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=awm7)
 
@@ -23,14 +21,9 @@
 
 ### ETC
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat&logo=ubuntu&logoColor=white)
-</br>
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=docker&logoColor=white)
 </br>
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-FF6600.svg?&style=flat&logo=intellijidea&logoColor=white)
-![Pycharm](https://img.shields.io/badge/PyCharm-339900.svg?&style=flat&logo=pycharm&logoColor=white)
-
-
 
 
 ## 📫 Contacts
